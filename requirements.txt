@@ -1,0 +1,2 @@
+# Personal Expense Tracker
+# Uses Python built-in modules only

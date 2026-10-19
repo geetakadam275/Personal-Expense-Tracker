@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "title": "car",
+        "amount": 1000000.0,
+        "category": "Travel",
+        "date": "1986-10-01"
+    }
+]
