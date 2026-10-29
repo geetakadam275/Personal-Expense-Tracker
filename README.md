@@ -4,6 +4,8 @@ A modern, full-stack personal finance and expense tracking application with real
 
 Supports both a **Premium Web Dashboard** (responsive dark/light theme) and the **Original Interactive CLI Terminal Application**.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/geetakadam275/Personal-Expense-Tracker)
+
 ---
 
 ## 🌟 Key Features
