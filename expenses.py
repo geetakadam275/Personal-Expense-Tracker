@@ -3,7 +3,8 @@ import json
 import os
 from datetime import datetime
 
-DATA_FILE = 'expenses.json'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, 'expenses.json')
 
 CATEGORIES = [
     'Food',

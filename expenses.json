@@ -5,5 +5,12 @@
         "amount": 1000000.0,
         "category": "Travel",
         "date": "1986-10-01"
+    },
+    {
+        "id": 2,
+        "title": "mango",
+        "amount": 85.0,
+        "category": "Food",
+        "date": "2026-10-29"
     }
 ]
